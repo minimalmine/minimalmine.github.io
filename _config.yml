@@ -1,7 +1,7 @@
 # _config.yml
 
 # サイトの基本設定（SEO的にも軽く反映される）
-title:minimalmine
+title: minimalmine
 description: minimal notes
 baseurl: "" # サブドメインなので空でOK
 url: "https://minimalmine.github.io"
